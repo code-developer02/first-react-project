@@ -1,0 +1,31 @@
+.navbar-container {
+    background-color: #9B97B2; /* Dark green background color */
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .navbar-links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-link1 {
+    color: #fff;
+    /* background-color: black; */
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+    padding:0px 15px;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-link1:hover {
+    color: #9B97B2;
+     /* Change color on hover */
+    
+    background-color: #fff;
+  }
+  
